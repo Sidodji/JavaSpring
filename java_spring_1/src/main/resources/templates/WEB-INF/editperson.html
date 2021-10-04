@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit person</title>
+</head>
+<body>
+<div class="container">
+    <h1>New person:</h1>
+    <form th:object="${personform}" method="POST">
+        <p>Name:
+            <input type="text" th:field="*{name}" />
+        </p>
+        <p> Surname:
+            <input type="text" th:field="*{surname}" />
+        </p>
+        <input class ="button-main-page" type="submit" value="Edit" />
+    </form>
+</div>
+</body>
+</html>

@@ -4,6 +4,7 @@ package com.example.java_spring_1.controller;
 
 import com.example.java_spring_1.forms.PersonForm;
 import com.example.java_spring_1.model.Person;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -13,10 +14,13 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.ArrayList;
 import java.util.List;
 
+
 @Controller
+@RequestMapping
 public class PersonController {
     private static List<Person> persons = new ArrayList<Person>();
-
+    private static final org.slf4j.Logger log =
+            org.slf4j.LoggerFactory.getLogger(PersonController.class);
     static {
         persons.add(new Person("Jemmy", "Heringhton"));
         persons.add(new Person("Maxim", "Dobryi"));
@@ -34,7 +38,7 @@ public class PersonController {
         ModelAndView modelAndView = new ModelAndView();
         modelAndView.setViewName("index");
         model.addAttribute("message", message);
-
+        log.info("/index was called");
         return modelAndView;
     }
 

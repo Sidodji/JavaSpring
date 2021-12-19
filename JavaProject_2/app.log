@@ -1,0 +1,106 @@
+2021-11-09 22:10:04 INFO  - Start of adding event method
+2021-11-09 22:10:04 INFO  - Error: description: размер должен находиться в диапазоне от 10 до 200
+2021-11-09 22:10:04 INFO  - End of adding event method
+2021-11-09 22:10:10 INFO  - Start of adding event method
+2021-11-09 22:10:10 INFO  - End of adding event method
+2021-11-09 22:10:10 INFO  - Execution of adding event took 14msec.
+2021-11-09 22:10:40 INFO  - Start of deleting review method
+2021-11-09 22:10:40 INFO  - End of deleting review method
+2021-11-09 22:10:40 INFO  - Execution of deleting review took 3msec.
+2021-11-09 22:10:56 INFO  - Start of changing event method
+2021-11-09 22:10:56 INFO  - End of changing event method
+2021-11-09 22:10:56 INFO  - Execution of changing event took 40msec.
+2021-11-09 22:11:06 INFO  - Start of deleting event method
+2021-11-09 22:11:06 INFO  - End of deleting event method
+2021-11-09 22:11:06 INFO  - Execution of deleting event took 3msec.
+2021-12-16 23:12:12 INFO  - Error: login: Invalid login
+2021-12-16 23:12:23 INFO  - Error: password: размер должен находиться в диапазоне от 5 до 2147483647
+2021-12-16 23:12:39 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:12:39 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:12:43 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:12:43 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:12:43 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:12:52 INFO  - Error: Incorrect login or password
+2021-12-16 23:13:00 INFO  - Error: Incorrect login or password
+2021-12-16 23:13:39 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:13:40 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:13:40 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:13:53 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:14:23 INFO  - Error: password: размер должен находиться в диапазоне от 5 до 20
+2021-12-16 23:14:25 INFO  - Error: Incorrect login or password
+2021-12-16 23:15:02 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:16:22 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-16 23:21:08 INFO  - Error: Incorrect login or password
+2021-12-16 23:21:11 INFO  - Error: Incorrect login or password
+2021-12-16 23:21:22 INFO  - Error: Incorrect login or password
+2021-12-16 23:22:48 INFO  - Error: Incorrect login or password
+2021-12-16 23:22:50 INFO  - Error: Incorrect login or password
+2021-12-16 23:30:15 INFO  - Error: This login already exists
+2021-12-16 23:30:27 INFO  - Error: Incorrect login or password
+2021-12-16 23:30:34 INFO  - Error: Incorrect login or password
+2021-12-16 23:30:49 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-16 23:30:51 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-16 23:30:57 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-16 23:30:59 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-16 23:31:06 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-16 23:31:58 INFO  - Error: Incorrect login or password
+2021-12-16 23:37:01 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-16 23:37:13 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-16 23:37:21 INFO  - Error: password: размер должен находиться в диапазоне от 5 до 20
+2021-12-16 23:37:24 INFO  - Error: Incorrect login or password
+2021-12-16 23:37:55 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-17 12:31:01 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-17 12:31:05 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-17 12:31:07 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-17 12:34:42 INFO  - Error: Incorrect login or password
+2021-12-17 12:34:53 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-17 12:35:03 INFO  - Error: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-12-17 12:39:18 INFO  - Error: Mail server connection failed; nested exception is com.sun.mail.util.MailConnectException: Couldn't connect to host, port: smtp.mail.ru, 465; timeout -1;
+  nested exception is:
+	java.net.ConnectException: Connection timed out: connect. Failed messages: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: smtp.mail.ru, 465; timeout -1;
+  nested exception is:
+	java.net.ConnectException: Connection timed out: connect
+2021-12-17 12:39:29 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-17 12:39:29 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-17 12:39:29 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-17 12:39:29 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-17 12:39:31 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-17 12:39:33 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-17 21:55:36 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=138529a@mail.ru
+
+2021-12-19 13:13:15 INFO  - Start of adding event method
+2021-12-19 13:13:15 INFO  - Error: description: размер должен находиться в диапазоне от 10 до 200
+2021-12-19 13:13:15 INFO  - End of adding event method
+2021-12-19 13:13:29 INFO  - Start of adding event method
+2021-12-19 13:13:29 INFO  - End of adding event method
+2021-12-19 13:13:29 INFO  - Execution of adding event took 49msec.
+2021-12-19 13:18:02 INFO  - Start of deleting review method
+2021-12-19 13:18:02 INFO  - End of deleting review method
+2021-12-19 13:18:02 INFO  - Execution of deleting review took 7msec.
+2021-12-19 13:18:03 INFO  - Start of deleting review method
+2021-12-19 13:18:03 INFO  - End of deleting review method
+2021-12-19 13:18:03 INFO  - Execution of deleting review took 1msec.
+2021-12-19 13:24:04 INFO  - Error: login: Invalid login
+2021-12-19 13:26:36 INFO  - Start of adding event method
+2021-12-19 13:26:36 INFO  - End of adding event method
+2021-12-19 13:26:36 INFO  - Execution of adding event took 8msec.
+2021-12-19 13:29:27 INFO  - Start of adding event method
+2021-12-19 13:29:27 INFO  - End of adding event method
+2021-12-19 13:29:27 INFO  - Execution of adding event took 18msec.

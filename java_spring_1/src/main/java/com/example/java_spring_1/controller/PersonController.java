@@ -1,10 +1,8 @@
 package com.example.java_spring_1.controller;
 
 
-
 import com.example.java_spring_1.forms.PersonForm;
 import com.example.java_spring_1.model.Person;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -107,6 +105,4 @@ public class PersonController {
 
         return  modelAndView;
     }
-
-
 }
